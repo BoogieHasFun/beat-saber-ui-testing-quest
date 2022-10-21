@@ -32,5 +32,5 @@ MAKE_HOOK_MATCH(MainMenuUIHook, &GlobalNamespace::MainMenuViewController::DidAct
     HMUI::CurvedTextMeshPro *soloMenuText = gameObject->GetComponentInChildren<HMUI::CurvedTextMeshPro *>();
     
     // Set the text to "Skill Issue"
-    soloMenuText->SetText("Skill Issue");
+    soloMenuText->SetText("help");
 }
