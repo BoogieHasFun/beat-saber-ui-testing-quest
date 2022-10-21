@@ -2,6 +2,51 @@
 
 testing
 ## thoughts
+
+am i depressed over how i can't do this
+
+is this cringy?
+
+or are you just not noticing what is happening?
+
+movation?
+
+ffeaetawvgasfsdafvsgggsdbty
+
+:(
+
+?
+
+blalllballbalablblabbbblbbablalb
+
+i need to have fun more
+
+school prevents me from learning what i wanna learn
+
+i wish.
+
+i really do.
+
+## going crazy
+
+pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+1000000000000000000000000000000000000000000
+
+lol
+
+ fssfvsvd.,.,.,.><><>><<><><><><<><><><
+ 
+                      tab
+                                  tab
+                                   
+burger good
+
+five guys gud
+
+## back to sadness
+
+i could do better if others cared
+
 this brings me stress
 
 please help me with this
