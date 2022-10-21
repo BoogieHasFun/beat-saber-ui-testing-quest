@@ -1,7 +1,7 @@
 # boogietest
 
 testing
-
+## thoughts
 this brings me stress
 
 please help me with this
@@ -18,9 +18,25 @@ i have strong belief that nobody cares and nobody wants to help, rather they wan
 
 i don't know anymore
 
-### please help me finish this, if you find this
+will someone help?
 
-#### -- boogie
+or will people just agree im stupid and annoying?
+
+why
+
+is there something wrong with me?
+
+should i finish this?
+
+why didn't they answer my question
+
+i can't choose
+
+help
+
+help
+
+hellp
 
 ## Credits
 
