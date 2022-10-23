@@ -2,25 +2,23 @@
 
 testing
 
-this brings me stress
+## going crazy
 
-please help me with this
+pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+1000000000000000000000000000000000000000000
 
-no one wants to help me
+lol
 
-maybe i should scrap it
+ fssfvsvd.,.,.,.><><>><<><><><><<><><><
+ 
+                      tab
+                                  tab
+                                   
+burger good
 
-maybe i should just give up my goals.
+five guys gud
 
-and live knowing i could've done something i wanted to do but i didn't
 
-i have strong belief that nobody cares and nobody wants to help, rather they want me to go away
-
-i don't know anymore
-
-### please help me finish this, if you find this
-
-#### -- boogie
 
 ## Credits
 
