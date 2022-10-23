@@ -13,7 +13,7 @@
         "${workspaceFolder}/extern/includes", 
         "${workspaceFolder}/include", 
         "${workspaceFolder}/shared", 
-        "${workspaceFolder}",
+        "${workspaceFolder}/extern/includes/beatsaber-hook", 
         
         "C:/dev apps/android-ndk-r25b-windows/android-ndk-r25b/**",
         "${default}"

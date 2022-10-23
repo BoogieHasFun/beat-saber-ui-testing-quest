@@ -6,7 +6,6 @@
 #include "UnityEngine/UI/Button.hpp"
 #include "UnityEngine/GameObject.hpp"
 #include "HMUI/CurvedTextMeshPro.hpp"
-
 // Create a hook struct, named MainMenuUIHook.
 // Target "void MainMenuViewController::DidActivate" and takes the following arguments:
 // bool firstActivation, bool addedToHierarchy, bool screenSystemEnabling
@@ -15,22 +14,17 @@
 //  HookName(arguments...);
 //  // your code here 
 //}
-
-// it was working eariler 
 MAKE_HOOK_MATCH(MainMenuUIHook, &GlobalNamespace::MainMenuViewController::DidActivate, void, GlobalNamespace::MainMenuViewController
 *self, bool firstActivation, bool addedToHierarchy, bool screenSystemEnabling) {
-    // Run the original method before our code.
-    // Note, you can run the original method after our code if you want to change arguments.
-    MainMenuUIHook(self, firstActivation, addedToHierarchy, screenSystemEnabling); 
-    
-    
+     MainMenuUIHook(self, firstActivation, addedToHierarchy, screenSystemEnabling); 
     // Get the _soloButton text using the dyn_ method and simple unity jazz. dyn_ safely get fields and shouldn't change
     // much during updates.
-    
-    UnityEngine::UI::Button *soloMenuButton = self->dyn__soloButton();
+
+    UnityEngine::UI::Button *soloMenuButton = self->soloButton;
     UnityEngine::GameObject *gameObject = soloMenuButton->get_gameObject();
     HMUI::CurvedTextMeshPro *soloMenuText = gameObject->GetComponentInChildren<HMUI::CurvedTextMeshPro *>();
     
     // Set the text to "Skill Issue"
-    soloMenuText->SetText("help");
+    soloMenuText->SetText("HEE HEE HAH");
+    getLogger().info("play button text was acutally changed");
 }

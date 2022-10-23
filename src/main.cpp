@@ -24,12 +24,12 @@ extern "C" void setup(ModInfo& info) {
     getConfig().Load();
     getLogger().info("Completed setup!");
 }
-
+#include "hook.hpp"
 // Called later on in the game loading - a good time to install function hooks
 extern "C" void load() {
     il2cpp_functions::Init();
 
     getLogger().info("Installing hooks...");
-    // Install our hooks (none defined yet)
+INSTALL_HOOK(getLogger(), MainMenuUIHook);
     getLogger().info("Installed all hooks!");
 }
