@@ -37,7 +37,7 @@ you usin' way too many napkins, papkins, lapkins and chapki
 you using chapstick and napkins while i'm papkin'
 flappin' around like a bapkin'
 flammina babbita playin' a jampkin
-dammit, a can of pa-" - thing from the song "Homicide by Logic (ft Eninem)" 
+dammit, a can of pa-" - thing from the song "Homicide by Logic (ft Eminem)" 
 
 
 ## Credits
