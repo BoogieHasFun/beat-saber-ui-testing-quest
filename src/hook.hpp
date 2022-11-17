@@ -17,7 +17,7 @@
 MAKE_HOOK_MATCH(MainMenuUIHook, &GlobalNamespace::MainMenuViewController::DidActivate, void, GlobalNamespace::MainMenuViewController
 *self, bool firstActivation, bool addedToHierarchy, bool screenSystemEnabling) {
      MainMenuUIHook(self, firstActivation, addedToHierarchy, screenSystemEnabling); 
-    // Get solobutton simply by putting "soloMenuButton", do not use dyn_ because thats deprecated and not used anyone, so instead just put the objects name (eg: soloMenuButton) 
+    // Get solobutton simply by putting "soloMenuButton", do not use dyn_ because thats deprecated and not used anymore, so instead just put the objects name (eg: soloMenuButton) 
 
     UnityEngine::UI::Button *soloMenuButton = self->soloButton;
     UnityEngine::GameObject *gameObject = soloMenuButton->get_gameObject();
