@@ -2,12 +2,12 @@
   "sharedDir": "shared",
   "dependenciesDir": "extern",
   "info": {
-    "name": "boogietest",
-    "id": "boogietest2",
+    "name": "textThing",
+    "id": "boogiesfirstmod",
     "version": "0.1.0",
     "url": null,
     "additionalData": {
-      "overrideSoName": "libboogietest2.so"
+      "overrideSoName": "libboogietest.so"
     }
   },
   "dependencies": [
@@ -18,12 +18,17 @@
     },
     {
       "id": "codegen",
-      "versionRange": "^0.28.0",
+      "versionRange": "^0.33.0",
       "additionalData": {}
     },
     {
       "id": "beatsaber-hook",
       "versionRange": "^3.14.0",
+      "additionalData": {}
+    },
+    {
+      "id": "questui",
+      "versionRange": "^0.17.12",
       "additionalData": {}
     }
   ],

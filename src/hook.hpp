@@ -24,6 +24,6 @@ MAKE_HOOK_MATCH(MainMenuUIHook, &GlobalNamespace::MainMenuViewController::DidAct
     HMUI::CurvedTextMeshPro *soloMenuText = gameObject->GetComponentInChildren<HMUI::CurvedTextMeshPro *>();
     
     // Set the text to "Skill Issue"
-    soloMenuText->SetText("HEE HEE HAH");
-    getLogger().info("play button text was acutally changed");
+    soloMenuText->SetText("Enter Skill Issue");
+    getLogger().info("d");
 }
