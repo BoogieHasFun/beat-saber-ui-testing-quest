@@ -1,4 +1,6 @@
 # boogietest
+# archived cuz people got mad at me
+# !! do not bring my bad desicions from the past, because yes, i changed and i am not a total idiot anymore.
 
 testing
 
